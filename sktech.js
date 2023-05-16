@@ -4,6 +4,6 @@ function setup() {
 }
 
 function draw() {
-  stroke()
-  fill("red")
+  stroke("blue");
+  fill("red");
    }
